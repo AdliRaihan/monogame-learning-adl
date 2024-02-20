@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/AD/Pictures/LPIcons/Ayo.png","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/Ayo.xnb","TextureProcessor","Texture2DContent",4504,65621,0.0158647
+"C:/Users/AD/Pictures/LPIcons/HP.png","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/HP.xnb","TextureProcessor","Texture2DContent",1319,409685,0.0581631
+"C:/Users/AD/Pictures/LPIcons/SFX-Swinged.png","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/SFX-Swinged.xnb","TextureProcessor","Texture2DContent",530,16469,0.0752642
+"E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/Ayo.png","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/Ayo.xnb","TextureProcessor","Texture2DContent",4844,65621,0.4138428
+"E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/Bottom.png","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/Bottom.xnb","TextureProcessor","Texture2DContent",415,16469,0.015758
+"E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/defaultfont.spritefont","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/defaultfont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.4509862
+"E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/Left.png","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/Left.xnb","TextureProcessor","Texture2DContent",413,16469,0.0080067
+"E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/Right.png","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/Right.xnb","TextureProcessor","Texture2DContent",418,16469,0.0120045
+"E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/Top.png","E:/[3] Projects Mono Games/Arrawer/Arrawer/Content/bin/DesktopGL/Top.xnb","TextureProcessor","Texture2DContent",400,16469,0.0139707

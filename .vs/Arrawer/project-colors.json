@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15157c33-23d8-4350-8a6f-95f1be8274c9": {
+      "ProjectGuid": "15157c33-23d8-4350-8a6f-95f1be8274c9",
+      "DisplayName": "Arrawer",
+      "ColorIndex": 0
+    },
+    "4e4ea5b4-7cfe-42e8-a19e-b6e262e44f6c": {
+      "ProjectGuid": "4e4ea5b4-7cfe-42e8-a19e-b6e262e44f6c",
+      "DisplayName": "DopaEngine",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
